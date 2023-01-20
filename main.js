@@ -1,3 +1,4 @@
 document.querySelector("h1").onclick = () => {
-    console.log("Jaap :D");
+    window.title = "Hoi Jaap";
+    // hier moet ik nog dingen doen
 }
